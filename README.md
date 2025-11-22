@@ -7,4 +7,4 @@ Power BI Dashboard
 https://github.com/vikasverma929/Data-Analysis-Customer-Segmentation-/blob/main/power%20bi%20111.pbix
 
 Dashboard
-![Uploading Screenshot 2025-11-22 143601.png…]()
+https://github.com/vikasverma929/Data-Analysis-Customer-Segmentation-/blob/main/Screenshot%202025-11-22%20143601.png
